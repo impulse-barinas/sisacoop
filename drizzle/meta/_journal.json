@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789587394712,
+      "tag": "0000_hesitant_martin_li",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789587464381,
+      "tag": "0001_clear_zaran",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789590239618,
+      "tag": "0002_rapid_reavers",
+      "breakpoints": true
+    }
+  ]
+}
